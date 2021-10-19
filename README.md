@@ -94,7 +94,7 @@ Crea un script que defina una matriz de dos dimensiones llamada alumnos, que con
     Alumno	    Nombre	    Apellidos	            Asignatura	    Nota media
     1	        Javier	    Escudero Fernández	    DWS	            9,8
     2	        ...	        ...	                    ...	            ...
-    
+
 En dicho script se define un procedimiento, comprueba, que reciba un número entero (identificador del alumno en la matriz anterior) y recorra la matriz que almacena los datos de dicho alumno, mostrándolos por pantalla. Para comprobar su funcionamiento, llame a la función comprueba desde el cuerpo de la página.
 
 Crea otra función estadisticas, que reciba una matriz y devuelva la media de la clase y el número de aprobados. Llámala desde el cuerpo de la página.
