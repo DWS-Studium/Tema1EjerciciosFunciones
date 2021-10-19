@@ -1,4 +1,4 @@
-Ejercicio 1
+Ejercicio 1<br/>
 Crea una función llamada notas_aleatorias($size) que recibe un número entero y devuelve un array de tamaño $size lleno de notas aleatorias.
 
 Ejercicio 2
