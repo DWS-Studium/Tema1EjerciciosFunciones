@@ -28,18 +28,18 @@ Crea una página PHP que contenga una función cuentavocales que recibe una cade
 <h2>Ejercicio 9</h2>
 Crea una página PHP que contenga una función cuadrado que recibe 2 parámetros, un carácter cualquiera y un número. La función debe mostrar un cuadrado con el carácter recibido (tantas filas y columnas como indique el número). Ejemplo:
 
-cuadrado ("#", 3);
-     ###
-     ###
+cuadrado ("#", 3);<br/>
+     ###<br/>
+     ###<br/>
      ###
 
 <h2>Ejercicio 10</h2>
 Crea una página que contenga una función pirámide que recibe 2 parámetros, un carácter cualquiera y un número. La función debe mostrar una pirámide invertida con el carácter recibido, como se muestra en el ejemplo:
 
-piramide ("@", 4);
-    @@@@
-    @@@
-    @@
+piramide ("@", 4);<br/>
+    @@@@<br/>
+    @@@<br/>
+    @@<br/>
     @
 
 <h2>Ejercicio 11</h2>
